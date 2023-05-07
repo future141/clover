@@ -1,3 +1,4 @@
 git clone https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot.git
 cd SteamDeck-Clover-dualboot/
 chmod +x install-Clover.sh
+./install-Clover.sh
